@@ -1,3 +1,9 @@
 [submodule "gist"]
 	path = gist
 	url = https://gist.github.com/yodaaa/a65549007c7b0bb8462dd5c2fbd685a1
+[submodule "ARKit-Emperorgit"]
+	path = ARKit-Emperorgit
+	url = https://gist.github.com/yodaaa/a65549007c7b0bb8462dd5c2fbd685a1
+[submodule "ARKit-Emperor"]
+	path = ARKit-Emperor
+	url = https://gist.github.com/yodaaa/a65549007c7b0bb8462dd5c2fbd685a1
